@@ -1,0 +1,23 @@
+1. A gift registry will hold the following informations?
+
+2. Domain layer code in one module can also plug itself into another module by:
+
+3. If module A declares a dependency upon Module B, which of the following is not valid to declare such dependency?
+
+4. Which command runs Magento cron jobs?
+
+5. Which of the following aspects to the define RESTful API of Magento?
+
+6. which relationship is not possible between two modules in magento
+
+7. Which relationship is not possible between two modules?
+
+8. Which of the following is not a Magento area type?
+
+9. What is required for Installing Magento Extensions on a Custom Theme?
+
+10. Which of the following files are required for all components?
+
+11. When we are using .htaccess, how can you redirect all admin pages in Magento to another domain and subdirectory?
+
+12. Which endpoint is used for user authorization(Admin)?
